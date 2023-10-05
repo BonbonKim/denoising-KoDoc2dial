@@ -1,2 +1,2 @@
-# noise-reduced-KoDoc2dial
-Noise-Reduction Method via Filtering Back-Translated Data for Document Grounded Conversation
+# denoising-KoDoc2dial
+Denoising Method for Document Grounded Conversation Datasets via Back Translation Process
